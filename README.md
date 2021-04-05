@@ -8,7 +8,7 @@ Jawaban :
 
 
 1. A
-2. Menggunakan H1 menempatkan tulisan ditengah, sedangkan #Intro H1
+2. Menggunakan H1 menempatkan tulisan ditengah,
 ![MenggunakanH1](https://user-images.githubusercontent.com/63729431/113561714-3e6ea500-962f-11eb-97d4-a26e74cd0a1c.png)
    Menggunakan #Intro H1 membuat tulisan menjadi di pinggir sebelah kiri
  ![IntroH1](https://user-images.githubusercontent.com/63729431/113567689-43d0ed00-9639-11eb-9f98-32b501184cfc.png)
