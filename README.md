@@ -8,7 +8,8 @@ Tugas praktikum ke 2
 Jawaban :
 
 
-1. A
+1. Menggunakan Css cheat sheet ( merubah warna pada teks)
+![Color](https://user-images.githubusercontent.com/63729431/113704410-46e5df00-9706-11eb-9c39-84b221d86231.png)
 2. Menggunakan H1 menempatkan tulisan ditengah,
 ![MenggunakanH1](https://user-images.githubusercontent.com/63729431/113561714-3e6ea500-962f-11eb-97d4-a26e74cd0a1c.png)
    Menggunakan #Intro H1 membuat tulisan menjadi di pinggir sebelah kiri
