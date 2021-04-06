@@ -14,6 +14,9 @@ Jawaban :
 ![MenggunakanH1](https://user-images.githubusercontent.com/63729431/113561714-3e6ea500-962f-11eb-97d4-a26e74cd0a1c.png)
    Menggunakan #Intro H1 membuat tulisan menjadi di pinggir sebelah kiri
  ![IntroH1](https://user-images.githubusercontent.com/63729431/113567689-43d0ed00-9639-11eb-9f98-32b501184cfc.png)
+3. Maka hasilnya apabila External & Internal digabungkan hasilnya 
+![HasilIntExt](https://user-images.githubusercontent.com/63729431/113709470-b5c63680-970c-11eb-80e7-22b50e4a3364.png)
+
 
 
 
