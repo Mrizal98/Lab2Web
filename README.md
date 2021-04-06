@@ -16,6 +16,8 @@ Jawaban :
  ![IntroH1](https://user-images.githubusercontent.com/63729431/113567689-43d0ed00-9639-11eb-9f98-32b501184cfc.png)
 3. Maka hasilnya apabila External & Internal digabungkan hasilnya 
 ![HasilIntExt](https://user-images.githubusercontent.com/63729431/113709470-b5c63680-970c-11eb-80e7-22b50e4a3364.png)
+4. Hasilnya 
+![HasilIntExt - Copy](https://user-images.githubusercontent.com/63729431/113710039-65030d80-970d-11eb-94bb-e4eda1be3027.png)
 
 
 
